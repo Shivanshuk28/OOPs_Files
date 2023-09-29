@@ -1,0 +1,2 @@
+In computer programming, balanced bracktes are crucial fpr various tasks, particularly in syntax and data structure representations. Here are some commmon 
+examples of balanced brackets in computer programming
